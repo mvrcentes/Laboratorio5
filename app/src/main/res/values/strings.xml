@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lil Peep Albums</string>
+    <string name="Crybaby">Crybaby</string>
+    <string name="Hellboy">Hellboy</string>
+    <string name="CastlesII">Castles II</string>
+    <string name="Everybody">Everybody\'s Everything</string>
+    <string name="ComeOver">Come Over When You\'re Sober, Pt.1</string>
+    <string name="ComeOver2">Come Over When You\'re Sober, Pt.2</string>
+    <string name="Feelz">Feelz</string>
+    <string name="girls">Girls</string>
+    <string name="GymClass">Gym Class</string>
+    <string name="Kiss">Kiss</string>
+    <string name="imagen">imagen</string>
+</resources>
